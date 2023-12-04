@@ -1,0 +1,47 @@
+body {
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+ background-color: rgb(101, 101, 101);
+
+  
+}
+h3{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 17px;
+}
+
+/* .Imagebg{
+  /* background-image: url(C:\Users\pc\Desktop\REACT_REDUX\formul2\src\image\imag.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* vh viewport porte le height de bg toute */
+  /* height: 100vh; */ 
+
+/* 
+} */ 
+
+.post{
+height: 108vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+
+}
+
+.containerpost{
+  border-radius: 30px;
+  box-shadow: 13px 13px 13px 13px rgba(198, 198, 198, 0.31);
+  padding: 30px 20px;
+  background-color: white;
+  
+
+}
+
+
